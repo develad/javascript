@@ -377,7 +377,3 @@ export interface TestingTokenJSON {
   token: string;
   expires_at: number;
 }
-
-export interface CookiesJSON {
-  cookies: string[];
-}
